@@ -25,7 +25,7 @@ import java.util.function.Supplier;
 import org.springframework.util.Assert;
 
 /**
- * Registry for {@link Plugin}s. Allows sophisticated typesafe access to implementations of interfaces extending {link
+ * Registry for {@link Plugin}s. Allows sophisticated typesafe access to implementations of interfaces extending {@link
  * Plugin}.
  *
  * @param <T> the concrete {@link Plugin} interface
